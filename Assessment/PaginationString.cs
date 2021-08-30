@@ -18,6 +18,8 @@ namespace Assessment
         public void FirstPage()
         {
             currentPage = 1;
+            Console.Write
+
         }
 
         public void GoToPage(int page)

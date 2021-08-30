@@ -1,0 +1,10 @@
+D:\Proyectos-GIT\C#\JalaFundacion\Assessment\bin\Debug\netcoreapp3.1\Assessment.deps.json
+D:\Proyectos-GIT\C#\JalaFundacion\Assessment\bin\Debug\netcoreapp3.1\Assessment.dll
+D:\Proyectos-GIT\C#\JalaFundacion\Assessment\bin\Debug\netcoreapp3.1\Assessment.pdb
+D:\Proyectos-GIT\C#\JalaFundacion\Assessment\obj\Debug\netcoreapp3.1\Assessment.csproj.AssemblyReference.cache
+D:\Proyectos-GIT\C#\JalaFundacion\Assessment\obj\Debug\netcoreapp3.1\Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos-GIT\C#\JalaFundacion\Assessment\obj\Debug\netcoreapp3.1\Assessment.AssemblyInfoInputs.cache
+D:\Proyectos-GIT\C#\JalaFundacion\Assessment\obj\Debug\netcoreapp3.1\Assessment.AssemblyInfo.cs
+D:\Proyectos-GIT\C#\JalaFundacion\Assessment\obj\Debug\netcoreapp3.1\Assessment.csproj.CoreCompileInputs.cache
+D:\Proyectos-GIT\C#\JalaFundacion\Assessment\obj\Debug\netcoreapp3.1\Assessment.dll
+D:\Proyectos-GIT\C#\JalaFundacion\Assessment\obj\Debug\netcoreapp3.1\Assessment.pdb
