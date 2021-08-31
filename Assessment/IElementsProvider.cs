@@ -4,6 +4,6 @@ namespace Assessment
 {
     public interface IElementsProvider<T>
     {
-        public IEnumerable<T> ProcessData(T source);
+        public IEnumerable<T> ProcessData(T source,T separa);
     }
 }

@@ -17,7 +17,7 @@ namespace AssessmentTest
             string source = "a,b,c,d,e";
             IElementsProvider<string> provider = new StringProvider();
             string [] expectedElements = {"a", "b", "c", "d", "e"};
-            CollectionAssert.AreEqual(expectedElements, provider.ProcessData(source).ToList());
+            CollectionAssert.AreEqual(expectedElements, provider.ProcessData(source,",").ToList());
         }
 
         [TestMethod]
@@ -26,7 +26,7 @@ namespace AssessmentTest
             string source = "a|b|c|d|e";
             IElementsProvider<string> provider = new StringProvider();
             string [] expectedElements = {"a", "b", "c", "d", "e"};
-            CollectionAssert.AreEqual(expectedElements, provider.ProcessData(source).ToList());
+            CollectionAssert.AreEqual(expectedElements, provider.ProcessData(source,"|").ToList());
         }
 
         [TestMethod]
@@ -35,7 +35,7 @@ namespace AssessmentTest
             string source = "a b c d e";
             IElementsProvider<string> provider = new StringProvider();
             string [] expectedElements = {"a", "b", "c", "d", "e"};
-            CollectionAssert.AreEqual(expectedElements, provider.ProcessData(source).ToList());
+            CollectionAssert.AreEqual(expectedElements, provider.ProcessData(source," ").ToList());
         }
     }
 }
